@@ -110,7 +110,7 @@ Right now, I'm exploring both frontend and backend, building CLI apps, GUI apps,
   </summary>
 
 * 📧 Email: [talhasbzzz@gmail.com](mailto:talhasbzzz@gmail.com)  
-* 💼 LinkedIn: [Muhammad Talha Hamif](https://www.linkedin.com/in/muhammad-talha-09171131b/)  
+* 💼 LinkedIn: [@muhammad-talha](https://www.linkedin.com/in/muhammad-talha-09171131b/)  
 * 📷 Instagram: [@talhavvs](https://instagram.com/talhavvs)  
 * 🌐 Portfolio: *In progress — coming soon!*  
 * 📝 I'll be updating this section with blog posts, GitHub stats, and YouTube content in the future.
