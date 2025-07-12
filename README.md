@@ -106,9 +106,13 @@ Right now, I'm exploring both frontend and backend, building CLI apps, GUI apps,
 
 <details>
   <summary>
-    <h2>Updates & Links</h2>
+    <h2>🔗 Updates & Links</h2>
   </summary>
 
-* I’ll be updating this section soon with relevant blogs, YouTube links or GitHub stats!
+* 📧 Email: [talhasbzzz@gmail.com](mailto:talhasbzzz@gmail.com)  
+* 💼 LinkedIn: [Muhammad Talha Hamif](https://www.linkedin.com/in/muhammad-talha-09171131b/)  
+* 📷 Instagram: [@talhavvs](https://instagram.com/talhavvs)  
+* 🌐 Portfolio: *In progress — coming soon!*  
+* 📝 I'll be updating this section with blog posts, GitHub stats, and YouTube content in the future.
 
 </details>
