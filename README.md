@@ -32,6 +32,7 @@ Right now, I'm exploring both frontend and backend, building CLI apps, GUI apps,
 * Sushi Website (HTML, CSS, JavaScript)
 * Inventory Management System – GUI App using WinForms
 * Chess CLI Game
+* Internship @ Shaukat Khanam Hospital
 * More coming soon...
 
 </details>
