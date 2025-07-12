@@ -1,4 +1,4 @@
-<h1> Hello, I'm Muhammad Talha Hamif 
+<h1> Hello, I'm Muhammad Talha Hamid! 
 <a href="#"><img src="github_pic.png"  width="15%" align="right" alt="Memoji"/></a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></h1>
 
 ------------
