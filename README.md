@@ -1,4 +1,4 @@
-<h1 align="left">Hi, I'm Muhammad Talha Hamif</h1>
+<h1 align="left">Hi, I'm Muhammad Talha Hamid</h1>
 <p align="right">
   <img src="github_pic.png" width="180" alt="GitHub Cover Image"/>
 </p>
